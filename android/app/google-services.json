@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "118103381485",
+    "project_id": "kasikla-fatura",
+    "storage_bucket": "kasikla-fatura.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118103381485:android:84ab1928800e6d31e2c3e4",
+        "android_client_info": {
+          "package_name": "com.cengish.kasikla.kasikla_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118103381485-i35f3o5brnvalk8s3le2t7ql315sbekq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-N7P6ZbHofSpIghxgkFDF_b7QZ9cl2ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118103381485-i35f3o5brnvalk8s3le2t7ql315sbekq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
